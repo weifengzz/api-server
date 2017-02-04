@@ -22,3 +22,7 @@ const typeDefs = [`
 `];
 
 export default typeDefs;
+
+typeDefs.push(requireGraphQL('./user.graphql'));
+
+typeDefs.push(requireGraphQL('./tweet.graphql'));

@@ -7,3 +7,9 @@ export default function addModelsToContext(context) {
   });
   return newContext;
 }
+
+import User from './User';
+models.User = User;
+
+import Tweet from './Tweet';
+models.Tweet = Tweet;
