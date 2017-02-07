@@ -12,3 +12,7 @@
 访问如下网址
 
 `http://localhost:3000/graphiql`
+
+## TODO
+
+* 确保功能正常前提下升级核心库版本
