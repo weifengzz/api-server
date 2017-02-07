@@ -7,11 +7,14 @@
 
 ## 运行项目
 
-`npm start`
+```
+npm install
+npm start
+```
 
-访问如下网址
+* 接口调试网址 http://localhost:3000/graphiql
+* 开发数据库链接 localhost:3002
 
-`http://localhost:3000/graphiql`
 
 ## TODO
 
